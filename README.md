@@ -5,10 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=yashsonone99&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashsonone99&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashsonone99&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+
 
 ---
 

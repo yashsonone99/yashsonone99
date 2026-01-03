@@ -1,134 +1,131 @@
-# 👋 Hi, I'm Yash Sonone  
-### 📊 Data Analytics • Statistics • Machine Learning • Business Intelligence
+# 🌌 Yash Sonone  
+### 📊 Data Analyst | 📈 Business Intelligence | 🤖 Machine Learning Explorer  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Turning+Data+into+Decisions;Statistics+%7C+EDA+%7C+ML+Models;Python+%7C+SQL+%7C+Power+BI;Learning+Relentlessly.+Building+Consistently." />
+  <img src="https://komarev.com/ghpvc/?username=yashsonone99&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yashsonone99&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashsonone99&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
 
-## 🧠 About Me  
+## 🎬 About Me  
 
-🎓 **MCA Student** with a strong foundation in **Statistics, Data Analytics, and Machine Learning**  
-📈 Passionate about extracting **meaningful insights from real-world data**  
-🧪 Hands-on experience with **EDA, Hypothesis Testing, ML Algorithms & Time Series**  
-🚀 Focused on building **end-to-end, explainable, and business-driven data solutions**
+> *Turning raw data into meaningful insights and impactful decisions.*
 
-> I believe **good analytics is not just about models — it’s about reasoning, assumptions, and impact.**
-
----
-
-## 🔬 Core Analytical Strengths  
-
-✔ Exploratory Data Analysis (EDA)  
-✔ Statistical Thinking & Inference  
-✔ Hypothesis Testing & Confidence Intervals  
-✔ Feature Engineering & Model Evaluation  
-✔ Business-oriented Data Interpretation  
+🎓 MCA student with a strong analytical mindset  
+📊 Passionate about **Data Analytics, Machine Learning & Business Intelligence**  
+🧠 Skilled in uncovering **patterns, trends, and data-driven stories**  
+🚀 Building **real-world, end-to-end analytics projects**  
+📍 Hyderabad, India  
 
 ---
 
-## 🛠️ Tech Stack & Tools  
+## 🧠 Core Expertise  
 
-### 🐍 Programming & Data
-- Python (Pandas, NumPy, SciPy)
-- SQL (Analysis & Querying)
-- Jupyter Notebook
+- Exploratory Data Analysis (EDA)  
+- Statistical Analysis & Hypothesis Testing  
+- Machine Learning Models  
+- Data Visualization & Dashboards  
+- Business Insights & Storytelling  
+- Time Series Forecasting  
 
-### 📊 Statistics & Mathematics
-- Descriptive & Inferential Statistics  
-- Probability Distributions  
-- Hypothesis Testing (Z, T, Chi-Square)  
-- Confidence Interval Estimation  
+---
+
+## 🛠️ Tech Stack (Data Analytics Focused)
+
+### 🔢 Programming & Query Languages
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+### 📊 Data Analysis & Visualization
+<p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
 
 ### 🤖 Machine Learning
-- Supervised Learning  
-  - Logistic Regression  
-  - Random Forest  
-  - KNN  
-  - SVM  
-  - Naive Bayes  
-- Ensemble Models  
-  - XGBoost  
-  - LightGBM  
-- Unsupervised Learning  
-  - Clustering  
-  - Association Rule Mining (Apriori)  
+<p>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Random%20Forest-2E7D32?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/XGBoost-AA0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge"/>
+</p>
 
-### ⏱️ Time Series Analysis
-- Stationarity & ADF Test  
-- ARIMA  
-- Holt-Winters Exponential Smoothing  
-
-### 📈 Visualization & BI
-- Matplotlib  
-- Seaborn  
-- Power BI (Dashboards, KPIs)
+### 📈 Statistics & Forecasting
+<p>
+<img src="https://img.shields.io/badge/Statistics-6A1B9A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hypothesis%20Testing-283593?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Time%20Series-00897B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ARIMA-37474F?style=for-the-badge"/>
+</p>
 
 ---
 
-## 📌 Featured Analytical Projects  
+## 🚀 Featured Analytics Projects  
 
-### 📊 Statistics & Inference
-- **Basics of Statistics Analysis**  
-  → Mean, Median, Mode, Std Dev, Scaling & Encoding  
-- **Confidence Interval Estimation**  
-  → Z-distribution & T-distribution (99% CI)  
-- **Hypothesis Testing – Bombay Hospitality**  
-  → One-tailed test for business decision validation  
+- 📌 Basics of Statistics Analysis  
+- 📌 Confidence Interval Estimation  
+- 📌 Hypothesis Testing – Bombay Hospitality  
+- 📌 Advanced Exploratory Data Analysis (EDA)  
+- 📌 Association Rule Mining (Apriori Algorithm)  
+- 📌 Recommendation Systems  
+- 📌 Random Forest, XGBoost & LightGBM Models  
+- 📌 Time Series Forecasting (ARIMA & Holt-Winters)  
 
-### 🤖 Machine Learning
-- **Random Forest Classification (Glass Dataset)**  
-  → Baseline + Hyperparameter Tuning + Ensemble Comparison  
-- **XGBoost vs LightGBM – Titanic Survival Prediction**  
-  → Performance comparison using Accuracy, Precision, Recall, F1  
-- **Naive Bayes Blog Classification**  
-  → TF-IDF + NLP preprocessing + Sentiment Analysis  
-- **Anime Recommendation System**  
-  → Content-based filtering using TF-IDF & Cosine Similarity  
-
-### 🛒 Pattern Mining
-- **Association Rule Mining (Apriori Algorithm)**  
-  → Market Basket Analysis with Lift, Confidence & Support  
-
-### ⏱️ Forecasting
-- **Time Series Forecasting – Exchange Rate**  
-  → ARIMA vs Holt-Winters with Residual Diagnostics  
+> Each project focuses on **business understanding, statistical reasoning, and actionable insights**.
 
 ---
 
-## 🧪 How I Approach Data Problems  
+## 🏆 GitHub Achievements  
 
-1️⃣ Understand the **business or analytical objective**  
-2️⃣ Perform **deep EDA** before modeling  
-3️⃣ Apply **statistical reasoning**, not blind algorithms  
-4️⃣ Compare multiple models & validate assumptions  
-5️⃣ Communicate insights clearly through visuals & interpretation  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yashsonone99&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
 
 ---
 
-## 📈 GitHub Philosophy  
+## 📊 Contribution Activity  
 
-- 📂 Clean & structured repositories  
-- 📝 Detailed README files with explanations  
-- 📊 Visual outputs, not just code  
-- 🧠 Focus on **why**, not just **how**
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashsonone99&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🔗 Connect With Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yash-s-0ab717248">
+    <img src="https://img.shields.io/badge/LinkedIn-Yash%20Sonone-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:yashsonone17@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-yashsonone17@gmail.com-red?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://github.com/yashsonone99">
+    <img src="https://img.shields.io/badge/GitHub-yashsonone99-black?style=for-the-badge&logo=github"/>
+  </a>
+</p>
 
 ---
 
-## 📫 Let’s Connect  
-## 📫 Contact & Professional Links  
+## 📞 Contact Details  
 
-- 📧 **Email:** yashsonone17@gmail.com  
-- 📞 **Mobile:** +91 8010152451  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/yash-s-0ab717248  
-- 🐙 **GitHub:** https://github.com/yashsonone99  
-- 📍 **Location:** Hyderabad, India  
-
----
+- 📧 Email: **yashsonone17@gmail.com**  
+- 📱 Mobile: **+91 8010152451**  
+- 🔗 LinkedIn: **www.linkedin.com/in/yash-s-0ab717248**  
+- 💻 GitHub: **https://github.com/yashsonone99**
 
 ---
 
 <p align="center">
-  <b>⚡ “Data doesn’t speak. Analysts do.” ⚡</b>
+  <b>✨ “Data doesn’t speak — I make it speak.” ✨</b>
 </p>

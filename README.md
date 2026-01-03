@@ -1,9 +1,7 @@
 # 🌌 Yash Sonone  
 ### 📊 Data Analyst | 📈 Business Intelligence | 🤖 Machine Learning Explorer  
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yashsonone99&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
-</p>
+
 
 
 
